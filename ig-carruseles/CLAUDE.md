@@ -27,9 +27,21 @@ mkdir -p carousel-images
 
 ---
 
+## Primera vez (configuración inicial)
+
+Si `SOUL.md` o `IDENTITY.md` tienen `[PENDIENTE]`, **antes de hacer cualquier otra cosa**:
+
+1. Decirle al usuario: *"Antes de empezar, necesito conocer tu marca. Te voy a hacer unas preguntas rápidas."*
+2. Hacer las preguntas de configuración de `SOUL.md` (una por una, sin apurar)
+3. Completar `SOUL.md` e `IDENTITY.md` con las respuestas
+4. Crear `./styles/style-base.json` con los colores y tipografía configurados
+5. Confirmar: *"Perfecto. Ya tengo todo configurado para tu marca. ¿Arrancamos con el primer carrusel?"*
+
+---
+
 ## Arranque de sesión
 
-1. Leer `SOUL.md` e `IDENTITY.md`
+1. Leer `SOUL.md` e `IDENTITY.md` — si tienen [PENDIENTE], ir a configuración inicial
 2. Leer `OPTIMIZACION.md` — tiene prioridad absoluta
 3. Preguntarle al usuario qué tipo de contenido quiere (ver tabla de tipos)
 4. Hacer briefing completo antes de generar nada
